@@ -1,0 +1,147 @@
+1. Introduction to React
+2. Components
+    1. JSX(JavaScript XML) Syntax
+    2. Functional Components
+    3. Class Components
+3. Props(Properties)
+    1. Passing Props
+    2. Default Props
+    3. Prop Types
+4. State
+    1. useState Hook
+    2. Class Component State
+    3. Immutable State
+5. Lifecycle Methods (Class Components)
+    1. componentDidMount
+    2. componentDidUpdate
+    3. componentWillUnmount
+6. Hooks (Functional Components)
+    1. useState
+    2. useEffect
+    3. useContext
+    4. useReducer
+    5. useCallback
+    6. useMemo
+    7. useRef
+    8. useImperativeHandle
+    9. useLayoutEffect
+    10. useId
+7. Event Handling
+    1. Handling Events in Functional Components
+    2. Handling Events in Class Components
+8. Conditional Rendering
+    1. if Statements
+    2. Ternary Operators
+    3. Logical && Operator
+9. Lists and Keys
+    1. Rendering Lists
+    2. Keys in React Lists
+10. Component Composition
+    1. Reusing Components
+    2. Children Props
+    3. Composition vs Inheritence
+11. Higher-Order Components (HOC)
+    1. Creating HOCs
+    2. Using HOCs for Reusability
+12. Render Props
+    1. Using Render Props Pattern
+13. React Router
+    1. <BrowserRouter>
+    2. <Route>
+    3. <Link>
+    4. <Switch>
+    5. Route Parameters
+14. Navigation
+    1. useHistory Hook
+    2. useLocation Hook
+
+### State Management
+
+1. Context API
+    1. Creating Context
+    2. useContext Hook
+2. Redux
+    1. Actions
+    2. Reducers
+    3. Store
+    4. connect Function (React-Redux)
+3. Forms
+    1. Handling Form Data
+    2. Controlled Components
+    3. Uncontrolled Components
+4. Side Effects
+    1. useEffect for Data Fetching
+    2. useEffect Cleanup
+5. AJAX Requests
+    1. Fetch API
+    2. Axios Library
+
+### Error Handling
+
+1. Error Boundaries
+    1. componentDidCatch (Class Components)
+    2. ErrorBoundary Component (Functional Components)
+2. Testing
+    1. Jest Testing Framework
+    2. React Testing Library
+3. Optimization
+    1. Memoization
+    2. Profiling and Performance Monitoring
+4. Build and Deployment
+    1. Create React App (CRA)
+    2. Production Builds
+    3. Deployment Strategies
+
+### Frameworks and Libraries
+
+1. Styling Libraries
+    1. Styled-components
+    2. CSS Modules
+2. State Management Libraries
+    1. Redux
+    2. MobX
+    3. Jotai
+3. Routing Libraries
+    1. React Router
+    2. Reach Rounter
+
+Training Table 
+
+| ***No*** | ***Topic*** | ***Category*** | ***Mandatory/Skip*** |
+| --- | --- | --- | --- |
+| 1 | Introduction to React | Beginner | Mandatory |
+| 2 | React VS other frontend frameworks | Beginner | Skip |
+| 3 | Introducing JSX | Beginner | Mandatory |
+| 4 | Rendering Elements | Beginner | Mandatory |
+| 5 | Components | Beginner | Mandatory |
+| 6 | Props | Beginner | Mandatory |
+| 7 | State | Beginner | Mandatory |
+| 8 | Lifecycle Hooks (Functional Component)& Methods (Class component) | Beginner | Mandatory |
+| 9 | Handling Events | Beginner | Mandatory |
+| 10 | Conditional Rendering | Beginner | Mandatory |
+| 11 | Lists and Keys | Beginner | Skip |
+| 12 | Forms | Beginner | Skip |
+| 13 | Lifting State Up | Beginner | Mandatory |
+| 14 | Composition vs Inheritance | Beginner | Skip |
+| 15 | Typechecking (Static and PropTypes) | Beginner | Skip |
+| 16 | Uni-Directional Data Flow | Beginner | Mandatory |
+| 17 | React Routing | Beginner | Mandatory |
+| 18 | refs and DOM | Beginner | Mandatory |
+| 19 | Virtual Dom Concept | Intermediate | Mandatory |
+| 20 | Fragments | Intermediate | Mandatory |
+| 21 | React Hooks | Intermediate | Mandatory |
+| 22 | Context API | Beginner | Mandatory |
+| 23 | services calls(axios) | Intermediate | Mandatory |
+| 24 | Higher-Order Components | Advanced | Mandatory |
+| 25 | Routing with Lazy loading | Advanced | Skip |
+| 26 | Immutability | Intermediate | Skip |
+| 27 | Store(Flux & Redux) | Intermediate | Mandatory |
+| 28 | Containers | Intermediate | Mandatory |
+| 29 | Reducers & Actions | Intermediate | Mandatory |
+| 30 | Data Flow | Advanced | Mandatory |
+| 31 | Structuring Reducers - Splitting Reducer logic, Combine reducers, Reusing Reducer Logic | Advanced | Mandatory |
+| 32 | Redux forms | Advanced | Skip |
+| 33 | Redux thunk | Advanced | Mandatory |
+| 34 | Flux (multiple stores) | Advanced | Skip |
+| 35 | Unit testing tools | Advanced | Mandatory |
+| 36 | Optimising Performance | Advanced | Skip |
