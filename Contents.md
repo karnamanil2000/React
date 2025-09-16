@@ -46,10 +46,10 @@
 12. Render Props
     1. Using Render Props Pattern
 13. React Router
-    1. <BrowserRouter>
-    2. <Route>
-    3. <Link>
-    4. <Switch>
+    1. `<BrowserRouter>`
+    2. `<Route>`
+    3. `<Link>`
+    4. `<Switch>`
     5. Route Parameters
 14. Navigation
     1. useHistory Hook
