@@ -1,12 +1,10 @@
 ### **React Basics**
 
-1. Introduction to React
-      React is an open-source JavaScript library developed by Facebook for building user interfaces, specifically single- page applications. React was first released on March 2013. It emphasizes component-based architecture, allowing developers to build encapsulated components that manage their state. Unlike traditional MVC frameworks like Angular, React focuses solely on the "View" aspect of MVC, making it lightweight and faster. React also introduces the concept of a virtual DOM, which optimizes the performance of UI rendering by reducing the number of direct manipulations to the actual DOM.
+1. **Introduction to React:** React is an open-source JavaScript library developed by Facebook for building user interfaces, specifically single- page applications. React was first released on March 2013. It emphasizes component-based architecture, allowing developers to build encapsulated components that manage their state. Unlike traditional MVC frameworks like Angular, React focuses solely on the "View" aspect of MVC, making it lightweight and faster. React also introduces the concept of a virtual DOM, which optimizes the performance of UI rendering by reducing the number of direct manipulations to the actual DOM.
       
       The features of React are as follows:
       
-      1. **JSX:**
-      JSX serves as a syntax extension to JavaScript, facilitating the combination of HTML structures with JavaScript code within React files.
+      1. **JSX:** JSX serves as a syntax extension to JavaScript, facilitating the combination of HTML structures with JavaScript code within React files.
           - Explain JSX
               
               JSX (JavaScript XML) is a syntax extension for JavaScript recommended by React for describing what the UI should look like.
@@ -117,7 +115,7 @@
                       
                       The Virtual DOM is like a blueprint or a copy of the real DOM that is stored in the computer's memory. It's a concept used by React to make updating and changing things on a webpage more efficient.
                       
-                      ![Screenshot 2025-07-13 at 4.58.50 PM.png](/images/Screenshot%202025-07-13%20at%204.58.50 PM.png)
+                      ![Screenshot 2025-07-13 at 4.58.50 PM.png](/React/images/Screenshot%202025-07-13%20at%204.58.50 PM.png)
                       
                       **Why is it Needed?**
                       
@@ -127,7 +125,7 @@
                       
                       Virtual DOM is a JavaScript object that describes the current state of the UI. It is a tree structure, with each node in the tree representing an element in the UI. The Virtual DOM also includes information about the attributes and children of each element. To update the real DOM, React uses a process called reconciliation. Reconciliation compares the Virtual DOM to the real DOM and determines the minimal set of changes needed to bring them into alignment. React then applies these changes to the real DOM. Reconciliation is a very efficient process. React uses a diffing algorithm to compare the Virtual DOM to the real DOM. This algorithm is able to identify the smallest possible set of changes needed to update the real DOM.
                       
-                      ![Screenshot 2025-07-13 at 5.02.21 PM.png](attachment:67ee3585-eeee-44f9-9487-85f1647400c4:Screenshot_2025-07-13_at_5.02.21_PM.png)
+                      ![Screenshot 2025-07-13 at 5.02.21 PM.png](/React/images/Screenshot%202025-07-13%20at%205.02.21 PM.png)
                       
                       1. **Virtual DOM Objects:** For every object on the webpage, there is a corresponding virtual object in the memory. These virtual objects have the same properties as the real objects.
                       2. **Blueprint of the DOM:** Think of the virtual DOM as a blueprint of the real DOM. Changes made to the virtual DOM don't immediately show up on the screen; they are like plans for what should change.
