@@ -117,7 +117,7 @@
                       
                       The Virtual DOM is like a blueprint or a copy of the real DOM that is stored in the computer's memory. It's a concept used by React to make updating and changing things on a webpage more efficient.
                       
-                      ![Screenshot 2025-07-13 at 4.58.50 PM.png](attachment:4651cc68-c23c-42e4-8940-2e19f04ec80b:Screenshot_2025-07-13_at_4.58.50_PM.png)
+                      ![Screenshot 2025-07-13 at 4.58.50 PM.png](/images/Screenshot%202025-07-13%20at%204.58.50 PM.png)
                       
                       **Why is it Needed?**
                       
