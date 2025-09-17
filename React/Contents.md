@@ -103,7 +103,7 @@
     3. Jotai
 3. Routing Libraries
     1. React Router
-    2. Reach Rounter
+    2. Reach Router
 
 Training Table 
 
